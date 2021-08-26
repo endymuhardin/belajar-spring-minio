@@ -1,0 +1,1 @@
+# belajar-spring-minio
